@@ -9,7 +9,7 @@ body {
 .gallery {
   list-style: none;
   margin: 0 auto;
-  padding: 0;
+  padding: 24px 0;
   max-width: 1128px;
   display: flex;
   flex-wrap: wrap;
